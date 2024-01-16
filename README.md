@@ -91,7 +91,7 @@ Registered students will receive instructions to access __GitHub classroom__, __
 3. `clone` this repository to get a local copy in your machine
 
 	```
-	$ git clone https://github.com/marco-morales/QMSS-GR5069_Spring2023.git
+	$ git clone https://github.com/marco-morales/QMSS-GR5069_Spring2024.git
 	```
 
 4. `pull` every week before class to sync your local copy with the lates changes pushed to the repo
