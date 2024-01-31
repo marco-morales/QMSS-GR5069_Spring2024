@@ -46,12 +46,12 @@ outline\
 
      --- fundamentals and best practices ---
 	 
-| -- topic  1 : DATA SCIENCE AS A FUNCTION
+| -- topic  1 : THE DATA SCIENCE SHOP ROADMAP
 | -- topic  2 : VERSION CONTROL & GITHUB
 | -- topic  3 : STRUCTURING YOUR WORKSPACE: DS & DE PERSPECTIVES
 | -- topic  4 : CODING ETIQUETTE
 
-     --- practice of Data Science ---
+     --- the practice of Data Science ---
 
 | -- topic  5 : DATA PIPELINE IN PRACTICE
 | -- topic  6 : MISSING DATA & DATA QUALITY
