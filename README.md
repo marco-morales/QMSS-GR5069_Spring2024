@@ -50,17 +50,18 @@ outline\
 | -- topic  2 : VERSION CONTROL & GITHUB
 | -- topic  3 : STRUCTURING YOUR WORKSPACE: DS & DE PERSPECTIVES
 | -- topic  4 : CODING ETIQUETTE
+| -- topic  5 : CODING ETIQUETTE
 
      --- the practice of Data Science ---
 
-| -- topic  5 : DATA PIPELINE IN PRACTICE
-| -- topic  6 : MISSING DATA & DATA QUALITY
-| -- topic  7 : EXPLANATION v PREDICTION
-| -- topic  8 : MODEL DEPLOYMENT & VERSIONING,
+| -- topic  6 : DATA PIPELINE IN PRACTICE
+| -- topic  7 : MISSING DATA & DATA QUALITY
+| -- topic  8 : EXPLANATION v PREDICTION
+| -- topic  9 : MODEL DEPLOYMENT & VERSIONING,
                WORKING ENVIRONMENTS (DEV, STAGING, PROD)
-| -- topic  9 : MODEL EVALUATION
-| -- topic 10 : FRONTENDS AND DATA VISUALIZATION
-| -- topic 11 : WORKFLOW COLLABORATION
+| -- topic 10 : MODEL EVALUATION
+| -- topic 11 : FRONTENDS AND DATA VISUALIZATION
+| -- topic 12 : WORKFLOW COLLABORATION
 ```
 
 ## Course Resources
