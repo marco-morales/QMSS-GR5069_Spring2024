@@ -50,7 +50,7 @@ outline\
 | -- topic  2 : VERSION CONTROL & GITHUB
 | -- topic  3 : STRUCTURING YOUR WORKSPACE: DS & DE PERSPECTIVES
 | -- topic  4 : CODING ETIQUETTE
-| -- topic  5 : CODING ETIQUETTE
+| -- topic  5 : MANAGING THE PROCESS
 
      --- the practice of Data Science ---
 
